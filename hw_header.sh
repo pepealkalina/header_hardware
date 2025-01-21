@@ -12,11 +12,12 @@ if [ $# -lt 1 ]
     fi
 
 # Cambiar dependiendo del alumno
-alumno="Pedro Reina"
+alumno="nombre_alumno"
 
 
 echo "Creando archivo y añadiendo el header a $1"
 
+# añade el contenido al archivo
 echo '#!/bin/bash' > $1
 echo "" >> $1s
 echo "# Alumno: $alumno" >> $1
