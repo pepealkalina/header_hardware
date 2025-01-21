@@ -19,7 +19,7 @@ echo "Creando archivo y añadiendo el header a $1"
 
 # añade el contenido al archivo
 echo '#!/bin/bash' > $1
-echo "" >> $1s
+echo "" >> $1
 echo "# Alumno: $alumno" >> $1
 echo "# Fecha Creacion: $(date)" >> $1
 
