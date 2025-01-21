@@ -26,3 +26,6 @@ echo "# Fecha Creacion: $(date)" >> $1
 read -p "Introduce una breve descripcion del programa: " Descripcion
 
 echo "# Descripcion: $Descripcion" >> $1
+
+# le da permisos de ejecucion
+chmod +x $1
