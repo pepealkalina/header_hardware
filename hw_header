@@ -22,7 +22,7 @@ echo ""
 echo '#!/bin/bash' > $1
 echo "" >> $1
 echo "# Alumno: $alumno" >> $1
-echo "# Fecha Creacion: $(date)" >> $1
+echo "# Fecha Creacion: $(date +'%Y-%m-%d')" >> $1
 
 read -p "Introduce una breve descripcion del programa: " Descripcion
 
