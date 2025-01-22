@@ -5,7 +5,7 @@ El header de Fundamentos del Hardware para los scripts:
 
 1 - Cambiar la variable `alumno`, en la linea 15, por tu nombre.
 
-2 - Cambiar los permisos con `chmod +x hw_header.sh` para poder ejecutarlo sin necesidad del comando bash.
+2 - Cambiar los permisos con `chmod +x hw_header` para poder ejecutarlo sin necesidad del comando bash.
 
 3 - (Opcional) Mover el archivo a `/usr/local/bin` para poder ejecutarlo como si fuera un comando **
 
