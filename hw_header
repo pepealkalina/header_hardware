@@ -16,6 +16,7 @@ alumno="nombre_alumno"
 
 
 echo "Creando archivo y añadiendo el header a $1"
+echo ""
 
 # añade el contenido al archivo
 echo '#!/bin/bash' > $1
