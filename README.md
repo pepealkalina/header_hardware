@@ -2,7 +2,7 @@
 El header de Fundamentos del Hardware para los scripts:
 
 Es un script muy basico para esta tarea solo.
-Crea un archivo y le añade:
+Crea un archivo y le añade el siguiente contenido:
 ```
 #!/bin/bash
 
