@@ -1,6 +1,16 @@
 # header_hardware
 El header de Fundamentos del Hardware para los scripts:
 
+Es un script muy basico para esta tarea solo.
+Crea un archivo y le añade:
+```
+#!/bin/bash
+
+# Nombre: <nombre alumno>
+# Fecha: <fecha de la creacion del archivo>
+# Descripcion: <breve descripcion del script>
+```
+
 ## Antes de usarlo
 
 1 - Cambiar la variable `alumno`, en la linea 15, por tu nombre.
